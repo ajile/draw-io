@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T10:07:59.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="CpYYYUrvNqZg9xIkblHk" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T10:36:04.146Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Xk_FQEgwMpihOHQz2hPS" version="14.7.9" type="github">
   <diagram id="DSSoJJGQB_0jT_FpW2hz" name="Page-1">
-    <mxGraphModel dx="1426" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,18 @@
             <mxPoint x="610" y="240" as="sourcePoint" />
             <mxPoint x="710" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0bLyO6hEo1IjD0arP0Xv-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#666666;startArrow=none;startFill=0;fillColor=#ffffff;endArrow=none;endFill=0;" edge="1" parent="1" source="0bLyO6hEo1IjD0arP0Xv-31" target="0bLyO6hEo1IjD0arP0Xv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0bLyO6hEo1IjD0arP0Xv-31" value="&lt;h1&gt;Лендинг и прочие публичные страницы&lt;/h1&gt;&lt;p style=&quot;text-align: justify&quot;&gt;Отвечает за генерацию публичных страниц сайта, таких как: главная страница, страницы документов и возможно прочие статичные страницы.&lt;/p&gt;&lt;p style=&quot;text-align: justify&quot;&gt;В процессе генерации использует данные сторонних сервисов. Например блок FAQ будет использовать данные из Zendesk.&lt;/p&gt;&lt;p style=&quot;text-align: justify&quot;&gt;Юридические страницы будут представлять из себя статику. В дальнейшем, возможно, появится интерфейс для редактирования этих данных где-нибудь в админке.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontColor=#666666;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="140" width="280" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0bLyO6hEo1IjD0arP0Xv-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#666666;startArrow=none;startFill=0;endArrow=none;endFill=0;fillColor=#ffffff;" edge="1" parent="1" source="0bLyO6hEo1IjD0arP0Xv-33" target="0bLyO6hEo1IjD0arP0Xv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0bLyO6hEo1IjD0arP0Xv-33" value="&lt;h1&gt;BIF сервер&lt;/h1&gt;&lt;p style=&quot;text-align: justify&quot;&gt;Отвечает за отдачу существующего “panel” приложения, регистрацию метрик, получаемых в процессе работы приложения, а также, возможно, для проксирования запросов к BFF серверу и насыщения этих запросов JWT-токеном, который на клиенте переместится из localStorage в куки с httpOnly флагом.&lt;/p&gt;&lt;p style=&quot;text-align: justify&quot;&gt;BIF сервер также будет иметь собственный интерфейс для получения данных из сторонних сервисов, в частности из Zendesk, которые требуются как Next.js серверу, так и “panel” приложению.&lt;/p&gt;&lt;p style=&quot;text-align: justify&quot;&gt;Для документации этого интерфейса предполагается использовать Swagger.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontColor=#666666;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="827" y="30" width="280" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
