@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T09:13:15.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Zu1bwQCgHCYRU2lQ6onM" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T09:14:38.626Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5sXE9mWEhEEHau-h5jOw" version="14.7.9" type="github">
   <diagram id="DSSoJJGQB_0jT_FpW2hz" name="Page-1">
     <mxGraphModel dx="1426" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0bLyO6hEo1IjD0arP0Xv-29" value="External Services" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-231" width="630" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0bLyO6hEo1IjD0arP0Xv-28" value="BFF" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-130" width="630" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0bLyO6hEo1IjD0arP0Xv-27" value="Server" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-30" width="630" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="0bLyO6hEo1IjD0arP0Xv-15" value="React site application" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="110" y="150" width="260" height="350" as="geometry" />
         </mxCell>
@@ -55,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0bLyO6hEo1IjD0arP0Xv-10" value="Zendesk API" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-110" width="110" height="60" as="geometry" />
+          <mxGeometry x="440" y="-210" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bLyO6hEo1IjD0arP0Xv-20" value="React panel application" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="440" y="150" width="240" height="350" as="geometry" />
