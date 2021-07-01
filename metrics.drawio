@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T11:15:27.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="iT0OPHuozMoyHwcQ-diQ" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T11:16:45.887Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="YbOBRXm6JxYkvSHMrPGM" version="14.8.2" type="github">
   <diagram id="WvB8MHd3zitzBZIZluVN" name="Page-1">
     <mxGraphModel dx="2015" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,8 +114,8 @@
         <mxCell id="xudrXyD6YdKCew8HX1Xn-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#DDDDDD;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-58" target="xudrXyD6YdKCew8HX1Xn-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xudrXyD6YdKCew8HX1Xn-58" value="С какой-то периодичностью метрики отсылаются на сервер." style="rounded=0;shadow=0;glass=0;sketch=0;fontColor=#666666;align=left;verticalAlign=top;fillColor=#FFFFE8;spacing=0;spacingLeft=5;spacingTop=0;labelBorderColor=none;whiteSpace=wrap;html=1;labelBackgroundColor=none;textDirection=ltr;horizontal=1;spacingBottom=5;spacingRight=5;strokeColor=#DDDDDD;" vertex="1" parent="1">
-          <mxGeometry x="530" y="330" width="170" height="50" as="geometry" />
+        <mxCell id="xudrXyD6YdKCew8HX1Xn-58" value="С заданной периодичностью метрики отсылаются на сервер. После N-ой попытки отправить метрики регистрируется ошибка и очередь очищается." style="rounded=0;shadow=0;glass=0;sketch=0;fontColor=#666666;align=left;verticalAlign=top;fillColor=#FFFFE8;spacing=0;spacingLeft=5;spacingTop=0;labelBorderColor=none;whiteSpace=wrap;html=1;labelBackgroundColor=none;textDirection=ltr;horizontal=1;spacingBottom=5;spacingRight=5;strokeColor=#DDDDDD;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-24" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontColor=#666666;strokeColor=#666666;dashed=1;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-23" target="xudrXyD6YdKCew8HX1Xn-10">
           <mxGeometry relative="1" as="geometry" />
