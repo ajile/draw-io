@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T11:26:00.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="mPs9zoWWhTQm4TOppGgY" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T11:28:38.683Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="LLfFC3woICo1TqIw1Ofz" version="14.8.2" type="github">
   <diagram id="WvB8MHd3zitzBZIZluVN" name="Page-1">
-    <mxGraphModel dx="2015" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Layout: Server" style="" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="250" y="260" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-22" value="Client" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;arcSize=7;verticalAlign=top;align=left;spacing=2;spacingLeft=5;strokeColor=#CCCCCC;dashed=1;fontColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="120" y="380" width="380" height="190" as="geometry" />
+          <mxGeometry x="60" y="380" width="370" height="190" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-33" value="Service Worker" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;arcSize=7;verticalAlign=top;align=left;spacing=2;spacingLeft=5;strokeColor=#CCCCCC;dashed=1;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="240" y="410" width="120" height="150" as="geometry" />
@@ -65,13 +65,13 @@
           <mxGeometry x="250" y="500" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-36" value=":80 (Site)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=left;verticalAlign=top;spacingLeft=5;strokeColor=#CCCCCC;dashed=1;fontColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="130" y="410" width="100" height="150" as="geometry" />
+          <mxGeometry x="70" y="410" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-40" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;dashed=1;fontColor=#666666;strokeColor=#666666;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-38" target="xudrXyD6YdKCew8HX1Xn-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xudrXyD6YdKCew8HX1Xn-38" value="localStorage" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="380" y="440" width="100" height="110" as="geometry" />
+        <mxCell id="xudrXyD6YdKCew8HX1Xn-38" value="localStorage" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=center;verticalAlign=middle;strokeColor=#666666;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-41" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#666666;strokeColor=#666666;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-9" target="xudrXyD6YdKCew8HX1Xn-22">
           <mxGeometry relative="1" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-49" value="joom.perf" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="140" y="520" width="80" height="30" as="geometry" />
+          <mxGeometry x="80" y="520" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontColor=#666666;endArrow=none;endFill=0;entryX=1;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#DDDDDD;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-52" target="xudrXyD6YdKCew8HX1Xn-38">
           <mxGeometry relative="1" as="geometry">
@@ -120,13 +120,13 @@
         <mxCell id="xudrXyD6YdKCew8HX1Xn-56" value="Утилита через которые сохраняются полученные метрики." style="rounded=0;shadow=0;glass=0;sketch=0;fontColor=#666666;align=left;verticalAlign=top;fillColor=#FFFFE8;spacing=0;spacingLeft=5;spacingTop=0;labelBorderColor=none;whiteSpace=wrap;html=1;labelBackgroundColor=none;textDirection=ltr;horizontal=1;spacingBottom=5;spacingRight=5;strokeColor=#DDDDDD;" vertex="1" parent="1">
           <mxGeometry x="-60" y="600" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xudrXyD6YdKCew8HX1Xn-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#DDDDDD;" edge="1" parent="1" target="xudrXyD6YdKCew8HX1Xn-23">
+        <mxCell id="xudrXyD6YdKCew8HX1Xn-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#DDDDDD;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-58" target="xudrXyD6YdKCew8HX1Xn-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="414.91666666666674" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-58" value="С заданной периодичностью метрики отсылаются на сервер. После N-ой попытки отправить метрики регистрируется ошибка и очередь очищается." style="rounded=0;shadow=0;glass=0;sketch=0;fontColor=#666666;align=left;verticalAlign=top;fillColor=#FFFFE8;spacing=0;spacingLeft=5;spacingTop=0;labelBorderColor=none;whiteSpace=wrap;html=1;labelBackgroundColor=none;textDirection=ltr;horizontal=1;spacingBottom=5;spacingRight=5;strokeColor=#DDDDDD;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="300" width="170" height="110" as="geometry" />
+          <mxGeometry x="440" y="330" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-24" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontColor=#666666;strokeColor=#666666;dashed=1;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-23" target="xudrXyD6YdKCew8HX1Xn-10">
           <mxGeometry relative="1" as="geometry" />
@@ -134,11 +134,11 @@
         <mxCell id="xudrXyD6YdKCew8HX1Xn-25" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontColor=#666666;strokeColor=#666666;dashed=1;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-10" target="xudrXyD6YdKCew8HX1Xn-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xudrXyD6YdKCew8HX1Xn-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#DDDDDD;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-60" target="xudrXyD6YdKCew8HX1Xn-28">
+        <mxCell id="xudrXyD6YdKCew8HX1Xn-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#DDDDDD;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-60" target="xudrXyD6YdKCew8HX1Xn-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-60" value="С какой-то периодичностью промитеус забираем накопленные метрики." style="rounded=0;shadow=0;glass=0;sketch=0;fontColor=#666666;align=left;verticalAlign=top;fillColor=#FFFFE8;spacing=0;spacingLeft=5;spacingTop=0;labelBorderColor=none;whiteSpace=wrap;html=1;labelBackgroundColor=none;textDirection=ltr;horizontal=1;spacingBottom=5;spacingRight=5;strokeColor=#DDDDDD;" vertex="1" parent="1">
-          <mxGeometry x="410" y="20" width="170" height="50" as="geometry" />
+          <mxGeometry x="850" y="240" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#DDDDDD;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-62" target="xudrXyD6YdKCew8HX1Xn-15">
           <mxGeometry relative="1" as="geometry" />
@@ -146,11 +146,11 @@
         <mxCell id="xudrXyD6YdKCew8HX1Xn-62" value="Метрики хранятся в стороннем сервисе, который существует независимо от контейнера с сайтом." style="rounded=0;shadow=0;glass=0;sketch=0;fontColor=#666666;align=left;verticalAlign=top;fillColor=#FFFFE8;spacing=0;spacingLeft=5;spacingTop=0;labelBorderColor=none;whiteSpace=wrap;html=1;labelBackgroundColor=none;textDirection=ltr;horizontal=1;spacingBottom=5;spacingRight=5;strokeColor=#DDDDDD;" vertex="1" parent="1">
           <mxGeometry x="-100" y="185" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xudrXyD6YdKCew8HX1Xn-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.854;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#DDDDDD;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-64" target="xudrXyD6YdKCew8HX1Xn-12">
+        <mxCell id="xudrXyD6YdKCew8HX1Xn-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#DDDDDD;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-64" target="xudrXyD6YdKCew8HX1Xn-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-64" value="Поднимается еще один сервер на отдельном порте, чтобы ручки не торчали наружу." style="rounded=0;shadow=0;glass=0;sketch=0;fontColor=#666666;align=left;verticalAlign=top;fillColor=#FFFFE8;spacing=0;spacingLeft=5;spacingTop=0;labelBorderColor=none;whiteSpace=wrap;html=1;labelBackgroundColor=none;textDirection=ltr;horizontal=1;spacingBottom=5;spacingRight=5;strokeColor=#DDDDDD;" vertex="1" parent="1">
-          <mxGeometry x="590" y="380" width="170" height="110" as="geometry" />
+          <mxGeometry x="530" y="-10" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-69" value="" style="endArrow=none;html=1;fontColor=#000000;strokeColor=#666666;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
