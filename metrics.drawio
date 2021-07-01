@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T11:17:36.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="EAcDqIrpEc2XLssC5ixH" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T11:19:19.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="GRWNrMv8bWPQpgz5U31W" version="14.8.2" type="github">
   <diagram id="WvB8MHd3zitzBZIZluVN" name="Page-1">
     <mxGraphModel dx="2015" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="xudrXyD6YdKCew8HX1Xn-45" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#666666;strokeColor=#666666;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-28" target="xudrXyD6YdKCew8HX1Xn-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xudrXyD6YdKCew8HX1Xn-28" value="Grabber" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="xudrXyD6YdKCew8HX1Xn-28" value="Retrieval" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="550" y="260" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-23" value="Sender" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" parent="1">
@@ -70,13 +70,13 @@
         <mxCell id="xudrXyD6YdKCew8HX1Xn-46" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#666666;strokeColor=#666666;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-42" target="xudrXyD6YdKCew8HX1Xn-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xudrXyD6YdKCew8HX1Xn-42" value="DB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="xudrXyD6YdKCew8HX1Xn-42" value="Storage" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="550" y="210" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-44" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.289;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#666666;strokeColor=#666666;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-43" target="xudrXyD6YdKCew8HX1Xn-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xudrXyD6YdKCew8HX1Xn-43" value="API" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="xudrXyD6YdKCew8HX1Xn-43" value="HTTP Server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="550" y="160" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-48" value="Container" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;arcSize=7;verticalAlign=top;align=left;spacing=2;spacingLeft=5;strokeColor=#CCCCCC;dashed=1;fontColor=#666666;" vertex="1" parent="1">
@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-58" value="С заданной периодичностью метрики отсылаются на сервер. После N-ой попытки отправить метрики регистрируется ошибка и очередь очищается." style="rounded=0;shadow=0;glass=0;sketch=0;fontColor=#666666;align=left;verticalAlign=top;fillColor=#FFFFE8;spacing=0;spacingLeft=5;spacingTop=0;labelBorderColor=none;whiteSpace=wrap;html=1;labelBackgroundColor=none;textDirection=ltr;horizontal=1;spacingBottom=5;spacingRight=5;strokeColor=#DDDDDD;" vertex="1" parent="1">
-          <mxGeometry x="530" y="320" width="170" height="110" as="geometry" />
+          <mxGeometry x="-110" y="295" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-24" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontColor=#666666;strokeColor=#666666;dashed=1;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-23" target="xudrXyD6YdKCew8HX1Xn-10">
           <mxGeometry relative="1" as="geometry" />
@@ -134,6 +134,12 @@
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-62" value="Метрики хранятся в стороннем сервисе, который существует независимо от контейнера с сайтом." style="rounded=0;shadow=0;glass=0;sketch=0;fontColor=#666666;align=left;verticalAlign=top;fillColor=#FFFFE8;spacing=0;spacingLeft=5;spacingTop=0;labelBorderColor=none;whiteSpace=wrap;html=1;labelBackgroundColor=none;textDirection=ltr;horizontal=1;spacingBottom=5;spacingRight=5;strokeColor=#DDDDDD;" vertex="1" parent="1">
           <mxGeometry x="-100" y="185" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xudrXyD6YdKCew8HX1Xn-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.854;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#DDDDDD;" edge="1" parent="1" source="xudrXyD6YdKCew8HX1Xn-64" target="xudrXyD6YdKCew8HX1Xn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xudrXyD6YdKCew8HX1Xn-64" value="Поднимается еще один сервер на отдельном порте, чтобы ручки не торчали наружу." style="rounded=0;shadow=0;glass=0;sketch=0;fontColor=#666666;align=left;verticalAlign=top;fillColor=#FFFFE8;spacing=0;spacingLeft=5;spacingTop=0;labelBorderColor=none;whiteSpace=wrap;html=1;labelBackgroundColor=none;textDirection=ltr;horizontal=1;spacingBottom=5;spacingRight=5;strokeColor=#DDDDDD;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xudrXyD6YdKCew8HX1Xn-5" value="Layout: Express" style="" parent="0" />
         <mxCell id="xudrXyD6YdKCew8HX1Xn-7" value="Layout: Services" style="" parent="0" />
