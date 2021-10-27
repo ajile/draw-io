@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T11:56:05.391Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="CsNFwrfVJgMOJmbsJ4IQ" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T11:56:11.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="WBE8I6-Nf4BofI9jdUon" version="15.5.5" type="github">
   <diagram id="WQVOqClJDmihkoMT0SWu" name="Page-1">
     <mxGraphModel dx="1426" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
           <mxGeometry x="190" y="-160" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YQrZKttQEr3VEtj5sMxb-87" value="Этап 3. Реализация поставленных задач" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="340.25" y="190" width="250" height="40" as="geometry" />
+          <mxGeometry x="340.25" y="150" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YQrZKttQEr3VEtj5sMxb-88" value="Этап 4. Тестирование и релиз" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="827" y="-40" width="250" height="40" as="geometry" />
