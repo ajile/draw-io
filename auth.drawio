@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T12:22:41.572Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="1q3VqoD4IlfJBv_I14Mm" version="16.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-15T12:23:03.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0UJ3hkvHb9TwMxh1qQII" version="16.5.6" type="github" pages="3">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Registration">
     <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,28 +158,19 @@
           <mxGeometry x="25" y="7" width="15" height="6" as="geometry" />
         </mxCell>
         <mxCell id="QdKFPZdmgNNmxC_U_GcA-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdKFPZdmgNNmxC_U_GcA-2">
-          <mxGeometry x="45" y="50" width="110" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="QdKFPZdmgNNmxC_U_GcA-9" value="I hereby confirm…" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="QdKFPZdmgNNmxC_U_GcA-2">
-          <mxGeometry x="62" y="128" width="78" height="10" as="geometry" />
+          <mxGeometry x="45" y="50" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QdKFPZdmgNNmxC_U_GcA-10" value="/auth/signin" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="QdKFPZdmgNNmxC_U_GcA-1">
           <mxGeometry width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QdKFPZdmgNNmxC_U_GcA-11" value="password" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;align=left;spacingLeft=2;" vertex="1" parent="QdKFPZdmgNNmxC_U_GcA-1">
+        <mxCell id="QdKFPZdmgNNmxC_U_GcA-11" value="email" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;align=left;spacingLeft=2;" vertex="1" parent="QdKFPZdmgNNmxC_U_GcA-1">
           <mxGeometry x="55" y="90" width="91" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="QdKFPZdmgNNmxC_U_GcA-12" value="confirm password" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;align=left;spacingLeft=2;" vertex="1" parent="QdKFPZdmgNNmxC_U_GcA-1">
+        <mxCell id="QdKFPZdmgNNmxC_U_GcA-12" value="password" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;align=left;spacingLeft=2;" vertex="1" parent="QdKFPZdmgNNmxC_U_GcA-1">
           <mxGeometry x="55" y="110" width="91" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QdKFPZdmgNNmxC_U_GcA-13" value="ok" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;spacing=0;" vertex="1" parent="QdKFPZdmgNNmxC_U_GcA-1">
-          <mxGeometry x="85" y="170" width="31" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="QdKFPZdmgNNmxC_U_GcA-14" value="merchant name" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;align=left;spacingLeft=2;" vertex="1" parent="QdKFPZdmgNNmxC_U_GcA-0">
-          <mxGeometry x="55" y="130" width="91" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="QdKFPZdmgNNmxC_U_GcA-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;spacing=0;" vertex="1" parent="QdKFPZdmgNNmxC_U_GcA-0">
-          <mxGeometry x="55" y="150" width="5" height="5" as="geometry" />
+          <mxGeometry x="85" y="130" width="31" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
