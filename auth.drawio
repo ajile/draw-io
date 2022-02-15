@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T13:56:01.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rx7q3PucbGckzGMe372j" version="16.5.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-15T13:56:09.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="GcnZi1DxyIP5IRXK6sFk" version="16.5.6" type="github" pages="6">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Registration">
     <mxGraphModel dx="949" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -655,7 +655,7 @@
       <root>
         <mxCell id="cF0Pdz3eny8AtVdTh-L9-0" />
         <mxCell id="cF0Pdz3eny8AtVdTh-L9-1" parent="cF0Pdz3eny8AtVdTh-L9-0" />
-        <mxCell id="cF0Pdz3eny8AtVdTh-L9-2" value="Что представляет из себя лендинг" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cF0Pdz3eny8AtVdTh-L9-1">
+        <mxCell id="cF0Pdz3eny8AtVdTh-L9-2" value="Что представляет из себя лендинг?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cF0Pdz3eny8AtVdTh-L9-1">
           <mxGeometry x="390" y="360" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cF0Pdz3eny8AtVdTh-L9-3" value="Куда будут попадать мерчанты которым пришло требование перейти на аккаунты?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cF0Pdz3eny8AtVdTh-L9-1">
