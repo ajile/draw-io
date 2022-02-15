@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T13:55:50.137Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="USrLMu5gb5u10Aa5Aj4a" version="16.5.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-15T13:56:01.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rx7q3PucbGckzGMe372j" version="16.5.6" type="github" pages="6">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Registration">
     <mxGraphModel dx="949" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -643,6 +643,9 @@
         </mxCell>
         <mxCell id="umjj4e7nflk55ttOcJkg-10" value="ok" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;spacing=0;" vertex="1" parent="umjj4e7nflk55ttOcJkg-1">
           <mxGeometry x="85" y="130" width="31" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="C_DIhlLjqYnRusA_o2ze-0" value="4" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#009900;strokeColor=none;" vertex="1" parent="pSN3wMXAncZ-DjNGSa0V-1">
+          <mxGeometry x="20" y="80" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
