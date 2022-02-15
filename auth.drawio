@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T13:10:33.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="s5XPLRAF2XbxjSJ21I5g" version="16.5.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-15T13:10:50.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="M3gzB2KXbTRE4BPWUDvb" version="16.5.6" type="github" pages="6">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Registration">
     <mxGraphModel dx="949" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -491,7 +491,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="66-ynprgGRNY-Gx6uvnA" name="Account Creating">
-    <mxGraphModel dx="641" dy="399" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="672" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pSN3wMXAncZ-DjNGSa0V-0" />
         <mxCell id="pSN3wMXAncZ-DjNGSa0V-1" parent="pSN3wMXAncZ-DjNGSa0V-0" />
@@ -572,6 +572,9 @@
         </mxCell>
         <mxCell id="UlpziIrI7ffIYSSmMO7_-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pSN3wMXAncZ-DjNGSa0V-1">
           <mxGeometry x="110" y="303" width="160" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjvr8KchH1Dr4_9QIJp_-0" value="ok" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;spacing=0;" vertex="1" parent="pSN3wMXAncZ-DjNGSa0V-1">
+          <mxGeometry x="115" y="306" width="31" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
