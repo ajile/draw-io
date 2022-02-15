@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T13:48:41.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="y9UPQ72QsICxgjKgLq0u" version="16.5.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-15T13:52:58.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="iWA6kMgn1nMZXvlcsn92" version="16.5.6" type="github" pages="6">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Registration">
     <mxGraphModel dx="949" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -496,7 +496,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="66-ynprgGRNY-Gx6uvnA" name="Account Creating">
-    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pSN3wMXAncZ-DjNGSa0V-0" />
         <mxCell id="pSN3wMXAncZ-DjNGSa0V-1" parent="pSN3wMXAncZ-DjNGSa0V-0" />
@@ -580,6 +580,12 @@
         </mxCell>
         <mxCell id="Zjvr8KchH1Dr4_9QIJp_-0" value="ok" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;spacing=0;" vertex="1" parent="pSN3wMXAncZ-DjNGSa0V-1">
           <mxGeometry x="115" y="306" width="31" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tvf8wA3DolEZiklg_6Vk-0" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;strokeColor=#CCCCCC;fillColor=#FFFFFF;" vertex="1" parent="pSN3wMXAncZ-DjNGSa0V-1">
+          <mxGeometry x="70" y="360" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tvf8wA3DolEZiklg_6Vk-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;fontColor=#666666;" edge="1" parent="pSN3wMXAncZ-DjNGSa0V-1" source="PiFU_47-t9I--HEGo49u-4" target="tvf8wA3DolEZiklg_6Vk-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
