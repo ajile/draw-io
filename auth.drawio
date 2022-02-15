@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T12:24:21.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="T4x4yM4_gkv85K92BnbS" version="16.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-15T12:26:29.060Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Byfkkg3hssh2zFS5v9vQ" version="16.5.6" type="github" pages="3">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Registration">
     <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,6 +246,12 @@
         </mxCell>
         <mxCell id="nIk0akQCBOUEY01yaHbT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iW9iBrreQVlwl3mV8Ol9-1" source="QdKFPZdmgNNmxC_U_GcA-3" target="nIk0akQCBOUEY01yaHbT-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIk0akQCBOUEY01yaHbT-30" value="1. Откуда пользователи будут приходить&lt;br&gt;на страницу восстановления пароля?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;autosize=0;" vertex="1" parent="iW9iBrreQVlwl3mV8Ol9-1">
+          <mxGeometry x="105" y="460" width="250" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="nIk0akQCBOUEY01yaHbT-31" value="1. Что будет на странице восстановления пароля?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;autosize=0;" vertex="1" parent="iW9iBrreQVlwl3mV8Ol9-1">
+          <mxGeometry x="105" y="520" width="250" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
