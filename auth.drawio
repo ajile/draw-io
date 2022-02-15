@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T12:47:24.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yifhRtXCbcVBCDvuMmbb" version="16.5.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-15T12:47:49.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sO1zJae2vcR7dKhWddBw" version="16.5.6" type="github" pages="5">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Registration">
     <mxGraphModel dx="912" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -476,8 +476,8 @@
         <mxCell id="6cYhB_l3wuDqWrnpYlg6-13" value="ok" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;spacing=0;" vertex="1" parent="6cYhB_l3wuDqWrnpYlg6-1">
           <mxGeometry x="85" y="130" width="31" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="78QiFZv508pJkO4hyrjR-0" value="Заметка: Есть пункт «страница изменения пароля при входе». Что эта страница из себя представляет?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="Kd4W7rwIj_wvuTyQpbDM-1">
-          <mxGeometry x="250" y="70" width="250" height="50" as="geometry" />
+        <mxCell id="78QiFZv508pJkO4hyrjR-0" value="Заметка: Есть пункт «страница изменения пароля при входе».&lt;br&gt;1. Что эта страница из себя представляет?&lt;br&gt;2. Откуда на эту страницу пользователи приходят?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="Kd4W7rwIj_wvuTyQpbDM-1">
+          <mxGeometry x="250" y="70" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
