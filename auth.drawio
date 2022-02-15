@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T13:10:09.734Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="97WSKWFXIUAGUEiUFLkc" version="16.5.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-15T13:10:18.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="gi-FWTU-TzRCQQ4e3cXw" version="16.5.6" type="github" pages="6">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Registration">
     <mxGraphModel dx="949" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -528,7 +528,7 @@
         <mxCell id="PiFU_47-t9I--HEGo49u-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="PiFU_47-t9I--HEGo49u-3">
           <mxGeometry y="20" width="40" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="PiFU_47-t9I--HEGo49u-10" value="/panel" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="PiFU_47-t9I--HEGo49u-2">
+        <mxCell id="PiFU_47-t9I--HEGo49u-10" value="/panel/users/create" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="PiFU_47-t9I--HEGo49u-2">
           <mxGeometry width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PiFU_47-t9I--HEGo49u-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PiFU_47-t9I--HEGo49u-0">
