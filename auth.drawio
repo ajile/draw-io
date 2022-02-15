@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T12:52:55.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="92Ik28-i1Ll09KL31FrU" version="16.5.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-15T12:54:50.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="B4kF9oZq1Ku8FK0Z7AeN" version="16.5.6" type="github" pages="5">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Registration">
     <mxGraphModel dx="912" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -410,6 +410,9 @@
         </mxCell>
         <mxCell id="tRyZd7fmeRlR9XQ7KOnP-1" value="&lt;div&gt;JOOM&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="RH3Kg1vD80r5-Wmwhp9f-1">
           <mxGeometry x="191" y="170" width="78" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="doi7PtbQvghUC9bLjiSU-0" value="Параметры:&lt;br&gt;- oauth_client_id&lt;br&gt;- oauth_state&lt;br&gt;-&amp;nbsp;errorCode" style="text;whiteSpace=wrap;html=1;fontColor=#666666;" vertex="1" parent="RH3Kg1vD80r5-Wmwhp9f-1">
+          <mxGeometry x="440" y="410" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
