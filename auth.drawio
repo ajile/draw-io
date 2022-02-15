@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T11:27:48.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="o_7AHfOu0bDR807jV2aj" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T11:31:12.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fZ_1b51ROnDBFf5pSOmv" version="16.5.3" type="github">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Page-1">
     <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,6 +103,24 @@
         </mxCell>
         <mxCell id="nXb4mECqNkCN1c7yYPb4-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="735" y="260" width="5" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="nXb4mECqNkCN1c7yYPb4-48" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;fontColor=#2671BD;" edge="1" parent="1" source="nXb4mECqNkCN1c7yYPb4-45" target="nXb4mECqNkCN1c7yYPb4-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nXb4mECqNkCN1c7yYPb4-45" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;strokeColor=#CCCCCC;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nXb4mECqNkCN1c7yYPb4-46" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.238;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;" edge="1" parent="1" source="nXb4mECqNkCN1c7yYPb4-11" target="nXb4mECqNkCN1c7yYPb4-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nXb4mECqNkCN1c7yYPb4-47" value="Email conformation&lt;br&gt;&lt;br&gt;Please follow the &lt;font color=&quot;#2671bd&quot;&gt;link&lt;/font&gt;." style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;strokeColor=#CCCCCC;fillColor=#FFFFFF;align=left;verticalAlign=top;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="590" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nXb4mECqNkCN1c7yYPb4-49" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;fontColor=#2671BD;" edge="1" parent="1" target="nXb4mECqNkCN1c7yYPb4-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679" y="551" as="sourcePoint" />
+            <mxPoint x="710" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
