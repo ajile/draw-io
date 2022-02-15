@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T13:54:27.979Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Mg_Y5AsUBTTd8Ge0CnpC" version="16.5.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-15T13:54:34.650Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="UigLTYTQGS46ciZizvDw" version="16.5.6" type="github" pages="6">
   <diagram id="p7Ff0zWDrnerY__srlPh" name="Registration">
     <mxGraphModel dx="949" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -629,7 +629,7 @@
         <mxCell id="umjj4e7nflk55ttOcJkg-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="umjj4e7nflk55ttOcJkg-2">
           <mxGeometry x="45" y="50" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="umjj4e7nflk55ttOcJkg-9" value="/forget-password" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="umjj4e7nflk55ttOcJkg-1">
+        <mxCell id="umjj4e7nflk55ttOcJkg-9" value="/???" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="umjj4e7nflk55ttOcJkg-1">
           <mxGeometry width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="umjj4e7nflk55ttOcJkg-10" value="ok" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;spacing=0;" vertex="1" parent="umjj4e7nflk55ttOcJkg-1">
