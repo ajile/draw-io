@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T09:56:13.123Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Czgj6vyGuUjb2MTgV7oW" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T09:57:33.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ebnYeHo934CPPij67VfX" version="20.5.1" type="github">
   <diagram id="JXkJgvmqfbqvkpHv6_zL" name="Page-1">
     <mxGraphModel dx="1426" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="906" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="IPj3DiEYcI8KrJd8g6xb-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="190" width="300" height="20" as="geometry" />
         </mxCell>
@@ -109,8 +112,8 @@
             <mxPoint x="-1" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPj3DiEYcI8KrJd8g6xb-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="680" y="201" width="300" height="10" as="geometry" />
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="681" y="201" width="299" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IPj3DiEYcI8KrJd8g6xb-27" value="Делают ВНЖ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="211" width="120" height="30" as="geometry" />
@@ -125,9 +128,6 @@
           <mxGeometry x="-0.6095" y="1" relative="1" as="geometry">
             <mxPoint y="-33" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="IPj3DiEYcI8KrJd8g6xb-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="380" y="150" width="906" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IPj3DiEYcI8KrJd8g6xb-31" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="980" y="190" width="300" height="20" as="geometry" />
