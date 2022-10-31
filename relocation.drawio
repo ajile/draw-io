@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T09:47:16.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="MAcjfjoUIryST97qnVtF" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T09:48:52.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="65n4mPwZ3VRLxXf5bnLI" version="20.5.1" type="github">
   <diagram id="JXkJgvmqfbqvkpHv6_zL" name="Page-1">
     <mxGraphModel dx="951" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,44 @@
         </mxCell>
         <mxCell id="IPj3DiEYcI8KrJd8g6xb-27" value="Делают ВНЖ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="211" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="123" as="sourcePoint" />
+            <mxPoint x="413" y="188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-29" value="(1–5 дек)&lt;br&gt;Получение справки&lt;br&gt;о несудимости" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IPj3DiEYcI8KrJd8g6xb-28">
+          <mxGeometry x="-0.6095" y="1" relative="1" as="geometry">
+            <mxPoint y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="414" y="150" width="866" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="980" y="190" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="IPj3DiEYcI8KrJd8g6xb-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="300" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="IPj3DiEYcI8KrJd8g6xb-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="IPj3DiEYcI8KrJd8g6xb-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="20" as="sourcePoint" />
+            <mxPoint x="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-35" value="Справка о несудимости" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="120" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
