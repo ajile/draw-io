@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T10:11:04.687Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EM8wnpN20NMo_U-kCqpK" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T10:13:22.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3MWTBxwj_8_lqay5QHZQ" version="20.5.1" type="github">
   <diagram id="JXkJgvmqfbqvkpHv6_zL" name="Page-1">
     <mxGraphModel dx="1358" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,6 +308,28 @@
         <mxCell id="IPj3DiEYcI8KrJd8g6xb-77" value="записаться в посольство&lt;br&gt;на февраль с семьей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IPj3DiEYcI8KrJd8g6xb-76">
           <mxGeometry x="-0.6095" y="1" relative="1" as="geometry">
             <mxPoint y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="120" as="sourcePoint" />
+            <mxPoint x="650" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-79" value="Снять доллары" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IPj3DiEYcI8KrJd8g6xb-78">
+          <mxGeometry x="-0.6095" y="1" relative="1" as="geometry">
+            <mxPoint y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-80" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="310" as="sourcePoint" />
+            <mxPoint x="100" y="226.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-81" value="Сделать доверенность" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IPj3DiEYcI8KrJd8g6xb-80">
+          <mxGeometry x="-0.6095" y="1" relative="1" as="geometry">
+            <mxPoint y="26" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
