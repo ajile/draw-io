@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T09:48:52.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="65n4mPwZ3VRLxXf5bnLI" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T09:49:29.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yHMc5d-p_pAneTb8AAQH" version="20.5.1" type="github">
   <diagram id="JXkJgvmqfbqvkpHv6_zL" name="Page-1">
-    <mxGraphModel dx="951" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,6 +152,20 @@
         </mxCell>
         <mxCell id="IPj3DiEYcI8KrJd8g6xb-35" value="Справка о несудимости" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-36" value="Февраль" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1129.5" y="311" as="sourcePoint" />
+            <mxPoint x="1129.5" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPj3DiEYcI8KrJd8g6xb-38" value="(февраль)&lt;br&gt;Запись в посольство" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IPj3DiEYcI8KrJd8g6xb-37">
+          <mxGeometry x="-0.6095" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="32" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
