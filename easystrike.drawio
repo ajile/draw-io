@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T07:35:23.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mVRrETjnV6aU_iyBBkWc" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-15T07:35:38.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1JsigWm0Jm75j9HH88iT" version="20.8.20" type="github" pages="2">
   <diagram name="Base" id="qSuZdzZaE5NoMa65ZHbZ">
     <mxGraphModel dx="-762" dy="1771" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -994,7 +994,7 @@
         <mxCell id="n77g3zfSvvsb3xvakHtq-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#FFFFFF;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-70">
           <mxGeometry y="13" width="200" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="n77g3zfSvvsb3xvakHtq-72" value="Merchant gets note in Panel" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-70">
+        <mxCell id="n77g3zfSvvsb3xvakHtq-72" value="Note for Panel" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-70">
           <mxGeometry width="110" height="10" as="geometry" />
         </mxCell>
         <mxCell id="n77g3zfSvvsb3xvakHtq-73" value="" style="group" vertex="1" connectable="0" parent="n77g3zfSvvsb3xvakHtq-1">
@@ -1003,7 +1003,7 @@
         <mxCell id="n77g3zfSvvsb3xvakHtq-74" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#FFFFFF;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-73">
           <mxGeometry y="13" width="200" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="n77g3zfSvvsb3xvakHtq-75" value="Merchant gets note in Mail" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-73">
+        <mxCell id="n77g3zfSvvsb3xvakHtq-75" value="Note for mail" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-73">
           <mxGeometry width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="n77g3zfSvvsb3xvakHtq-76" value="" style="group" vertex="1" connectable="0" parent="n77g3zfSvvsb3xvakHtq-1">
