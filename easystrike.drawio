@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T06:43:27.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UITjOrDmwS4N-J7sc6s5" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T06:44:43.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GUBnonVfI7kcIMmG3yAG" version="20.8.20" type="github">
   <diagram name="Page-1" id="qSuZdzZaE5NoMa65ZHbZ">
-    <mxGraphModel dx="789" dy="532" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="477" dy="322" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="jXBSCCMV-D7_--bO9lGM-8" value="Skeleton - Layout" style="locked=1;" parent="0" />
@@ -154,6 +154,9 @@
         </mxCell>
         <mxCell id="jXBSCCMV-D7_--bO9lGM-53" value="Strike type" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" vertex="1" parent="jXBSCCMV-D7_--bO9lGM-51">
           <mxGeometry width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jXBSCCMV-D7_--bO9lGM-107" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=none;fontSize=6;fontColor=#FFFFFF;fillColor=#CCCCCC;rotation=90;" vertex="1" parent="jXBSCCMV-D7_--bO9lGM-51">
+          <mxGeometry x="103" y="17" width="3" height="4" as="geometry" />
         </mxCell>
         <mxCell id="jXBSCCMV-D7_--bO9lGM-58" value="" style="group" vertex="1" connectable="0" parent="jXBSCCMV-D7_--bO9lGM-42">
           <mxGeometry x="330" y="180" width="110" height="23" as="geometry" />
