@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T07:37:40.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_x0zdK30vp7V5iRPowxn" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-15T07:37:49.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5yG_sS1fXZob6Yb9qHMI" version="20.8.20" type="github" pages="2">
   <diagram name="Base" id="qSuZdzZaE5NoMa65ZHbZ">
     <mxGraphModel dx="-762" dy="1771" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -789,7 +789,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wv9P2XKIoNVM66U7HCjy" name="Variant 1">
-    <mxGraphModel dx="-677" dy="1828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-188" dy="2158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -1106,8 +1106,32 @@
             <mxPoint x="1804" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-YIslQFI6OQdlg5qy-ti-16" value="" style="group" vertex="1" connectable="0" parent="-YIslQFI6OQdlg5qy-ti-1">
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-97" value="1" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;fontSize=36;fontColor=#FFFFFF;fillColor=#FF3333;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
+          <mxGeometry x="1760" y="-120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-98" value="2" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;fontSize=36;fontColor=#FFFFFF;fillColor=#FF3333;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
+          <mxGeometry x="2008" y="511" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-99" value="3" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;fontSize=36;fontColor=#FFFFFF;fillColor=#FF3333;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
+          <mxGeometry x="1660" y="690" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-100" value="На сервер вся форма целиком, включая тексты для продавца в случае если они были отредактированы." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#4D4D4D;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
+          <mxGeometry x="1730" y="690" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-110" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#333333;fontSize=12;fontColor=#999999;fillColor=#CCCCCC;rotation=90;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
+          <mxGeometry x="2900" y="130" width="20" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-111" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;strokeColor=#999999;fontSize=12;fontColor=#999999;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-YIslQFI6OQdlg5qy-ti-1" target="-YIslQFI6OQdlg5qy-ti-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2910" y="665" as="sourcePoint" />
+            <mxPoint x="2830" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-242" value="" style="group" vertex="1" connectable="0" parent="-YIslQFI6OQdlg5qy-ti-1">
           <mxGeometry x="2540" y="40" width="744" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-16" value="" style="group" vertex="1" connectable="0" parent="-YIslQFI6OQdlg5qy-ti-242">
+          <mxGeometry width="744" height="420" as="geometry" />
         </mxCell>
         <mxCell id="-YIslQFI6OQdlg5qy-ti-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#CCCCCC;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-16">
           <mxGeometry width="740" height="420" as="geometry" />
@@ -1373,29 +1397,8 @@
         <mxCell id="-YIslQFI6OQdlg5qy-ti-128" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-126">
           <mxGeometry y="12" width="70" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="-YIslQFI6OQdlg5qy-ti-97" value="1" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;fontSize=36;fontColor=#FFFFFF;fillColor=#FF3333;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
-          <mxGeometry x="1760" y="-120" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-YIslQFI6OQdlg5qy-ti-98" value="2" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;fontSize=36;fontColor=#FFFFFF;fillColor=#FF3333;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
-          <mxGeometry x="2008" y="511" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-YIslQFI6OQdlg5qy-ti-99" value="3" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;fontSize=36;fontColor=#FFFFFF;fillColor=#FF3333;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
-          <mxGeometry x="1660" y="690" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-YIslQFI6OQdlg5qy-ti-100" value="На сервер вся форма целиком, включая тексты для продавца в случае если они были отредактированы." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#4D4D4D;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
-          <mxGeometry x="1730" y="690" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-YIslQFI6OQdlg5qy-ti-110" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#333333;fontSize=12;fontColor=#999999;fillColor=#CCCCCC;rotation=90;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
-          <mxGeometry x="2900" y="130" width="20" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="-YIslQFI6OQdlg5qy-ti-111" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;strokeColor=#999999;fontSize=12;fontColor=#999999;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-YIslQFI6OQdlg5qy-ti-1" target="-YIslQFI6OQdlg5qy-ti-110">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2910" y="665" as="sourcePoint" />
-            <mxPoint x="2830" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-YIslQFI6OQdlg5qy-ti-132" value="" style="group" vertex="1" connectable="0" parent="-YIslQFI6OQdlg5qy-ti-1">
-          <mxGeometry x="2941" y="168" width="80" height="19" as="geometry" />
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-132" value="" style="group" vertex="1" connectable="0" parent="-YIslQFI6OQdlg5qy-ti-242">
+          <mxGeometry x="401" y="128" width="80" height="19" as="geometry" />
         </mxCell>
         <mxCell id="-YIslQFI6OQdlg5qy-ti-133" value="Stores" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-132">
           <mxGeometry width="80" height="10" as="geometry" />
