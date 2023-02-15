@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T07:15:02.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vpWLGSYKUt7wBmeEjEKl" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-15T07:16:03.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wMfu30d5odxdGQt3tGdh" version="20.8.20" type="github" pages="2">
   <diagram name="Base" id="qSuZdzZaE5NoMa65ZHbZ">
     <mxGraphModel dx="-762" dy="1771" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1067,7 +1067,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-YIslQFI6OQdlg5qy-ti-8" value="Получение текстов от сервера, для предварительного показа текстов админу.&lt;br&gt;&lt;br&gt;Админ эти тексты может отредактировать" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#4D4D4D;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-8" value="Получение текстов от сервера &lt;span style=&quot;background-color: rgb(237, 250, 187);&quot;&gt;на языке продавца&lt;/span&gt;, для предварительного показа текстов админу.&lt;br&gt;&lt;br&gt;Админ эти тексты может отредактировать" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#4D4D4D;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
           <mxGeometry x="2090" y="511" width="190" height="99" as="geometry" />
         </mxCell>
         <mxCell id="-YIslQFI6OQdlg5qy-ti-9" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#999999;fontSize=12;fontColor=#999999;strokeWidth=3;" edge="1" parent="-YIslQFI6OQdlg5qy-ti-1">
