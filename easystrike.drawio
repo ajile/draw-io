@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T07:09:36.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="V3u3saZxdNPa8IFDfHw3" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-15T07:12:39.590Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4ktVKo2SD9_fGumdcCLa" version="20.8.20" type="github" pages="2">
   <diagram name="Base" id="qSuZdzZaE5NoMa65ZHbZ">
     <mxGraphModel dx="-762" dy="1771" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -789,7 +789,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wv9P2XKIoNVM66U7HCjy" name="Variant 1">
-    <mxGraphModel dx="-628" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-799" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -931,18 +931,6 @@
         <mxCell id="n77g3zfSvvsb3xvakHtq-46" value="Merchant Strike" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-1">
           <mxGeometry x="108" y="61" width="322" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="n77g3zfSvvsb3xvakHtq-47" value="" style="group" vertex="1" connectable="0" parent="n77g3zfSvvsb3xvakHtq-1">
-          <mxGeometry x="250" y="100" width="110" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="n77g3zfSvvsb3xvakHtq-48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#FFFFFF;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-47">
-          <mxGeometry y="13" width="110" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="n77g3zfSvvsb3xvakHtq-49" value="Strike type" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-47">
-          <mxGeometry width="70" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="n77g3zfSvvsb3xvakHtq-50" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=none;fontSize=6;fontColor=#FFFFFF;fillColor=#CCCCCC;rotation=90;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-47">
-          <mxGeometry x="103" y="17" width="3" height="4" as="geometry" />
-        </mxCell>
         <mxCell id="n77g3zfSvvsb3xvakHtq-51" value="" style="group" vertex="1" connectable="0" parent="n77g3zfSvvsb3xvakHtq-1">
           <mxGeometry x="250" y="140" width="110" height="24" as="geometry" />
         </mxCell>
@@ -968,7 +956,7 @@
           <mxGeometry x="103" y="17" width="3" height="4" as="geometry" />
         </mxCell>
         <mxCell id="n77g3zfSvvsb3xvakHtq-59" value="" style="group" vertex="1" connectable="0" parent="n77g3zfSvvsb3xvakHtq-1">
-          <mxGeometry x="120" y="100" width="110" height="23" as="geometry" />
+          <mxGeometry x="250" y="100" width="110" height="23" as="geometry" />
         </mxCell>
         <mxCell id="n77g3zfSvvsb3xvakHtq-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#FFFFFF;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-59">
           <mxGeometry y="13" width="110" height="10" as="geometry" />
@@ -1036,8 +1024,20 @@
         <mxCell id="n77g3zfSvvsb3xvakHtq-81" value="Order IDs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-79">
           <mxGeometry width="70" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="n77g3zfSvvsb3xvakHtq-47" value="" style="group" vertex="1" connectable="0" parent="n77g3zfSvvsb3xvakHtq-1">
+          <mxGeometry x="120" y="100" width="110" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="n77g3zfSvvsb3xvakHtq-48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#FFFFFF;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-47">
+          <mxGeometry y="13" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="n77g3zfSvvsb3xvakHtq-49" value="Strike type" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-47">
+          <mxGeometry width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="n77g3zfSvvsb3xvakHtq-50" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=none;fontSize=6;fontColor=#FFFFFF;fillColor=#CCCCCC;rotation=90;" vertex="1" parent="n77g3zfSvvsb3xvakHtq-47">
+          <mxGeometry x="103" y="17" width="3" height="4" as="geometry" />
+        </mxCell>
         <mxCell id="n77g3zfSvvsb3xvakHtq-82" value="&lt;div&gt;- Contact with customer&lt;/div&gt;&lt;div&gt;- Counterfeit&lt;/div&gt;&lt;div&gt;- Damaged&lt;/div&gt;&lt;div&gt;- Duplicates&lt;/div&gt;&lt;div&gt;- Empty package&lt;/div&gt;&lt;div&gt;- Misleading information&lt;/div&gt;&lt;div&gt;- Store issues&lt;/div&gt;&lt;div&gt;- Wrong quantity&lt;/div&gt;&lt;div&gt;- Other&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#999999;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2230" y="-150" width="150" height="140" as="geometry" />
+          <mxGeometry x="2050" y="-150" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-YIslQFI6OQdlg5qy-ti-1" value="Communications" parent="0" />
         <mxCell id="-YIslQFI6OQdlg5qy-ti-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#333333;fontSize=12;fontColor=#999999;fillColor=#CCCCCC;rotation=90;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
@@ -1072,13 +1072,13 @@
         </mxCell>
         <mxCell id="-YIslQFI6OQdlg5qy-ti-9" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#999999;fontSize=12;fontColor=#999999;strokeWidth=3;" edge="1" parent="-YIslQFI6OQdlg5qy-ti-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2020" y="-1" as="sourcePoint" />
-            <mxPoint x="2400" as="targetPoint" />
+            <mxPoint x="1840" y="-1" as="sourcePoint" />
+            <mxPoint x="2220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-YIslQFI6OQdlg5qy-ti-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;strokeColor=#999999;fontSize=12;fontColor=#999999;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-YIslQFI6OQdlg5qy-ti-1" target="n77g3zfSvvsb3xvakHtq-49">
+        <mxCell id="-YIslQFI6OQdlg5qy-ti-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;strokeColor=#999999;fontSize=12;fontColor=#999999;entryX=0.826;entryY=-0.149;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-YIslQFI6OQdlg5qy-ti-1" target="n77g3zfSvvsb3xvakHtq-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2050" y="10" as="sourcePoint" />
+            <mxPoint x="2030" y="10" as="sourcePoint" />
             <mxPoint x="2195" y="152" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2000" y="100" />
@@ -1086,7 +1086,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-YIslQFI6OQdlg5qy-ti-11" value="Получение типов страйков от сервера. Типы приходят с параметрами типа:&lt;br&gt;- Дефолтный диапазон&lt;br&gt;- Дефолтный % пессимизации&lt;br&gt;- Обязательность Order IDs&lt;br&gt;- Обязательность Product IDs&lt;br&gt;- …" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#4D4D4D;" vertex="1" parent="-YIslQFI6OQdlg5qy-ti-1">
-          <mxGeometry x="2020" y="-130" width="200" height="99" as="geometry" />
+          <mxGeometry x="1840" y="-130" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
