@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T15:47:43.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="TmavOCrQKo3Fr2K25uEd" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-19T15:48:04.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="yAEiwB_nWH-WlEfsB_dt" version="20.8.20" type="github" pages="3">
   <diagram name="Base" id="qSuZdzZaE5NoMa65ZHbZ">
     <mxGraphModel dx="-721" dy="1798" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1756,7 +1756,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wE4EL67diQoFSFkk2Cmt" name="Page-3">
-    <mxGraphModel dx="-1099" dy="374" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-628" dy="692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="UQvNzBuxLZfOV9-yqz3b-193" value="Screenshot" style="locked=1;" parent="0" visible="0" />
@@ -2975,15 +2975,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GIJ2lPNU1WHu-ZV3Bhrh-1" value="3" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;fontSize=36;fontColor=#FFFFFF;fillColor=#FF3333;" vertex="1" parent="UQvNzBuxLZfOV9-yqz3b-194">
-          <mxGeometry x="3480" y="1084" width="60" height="60" as="geometry" />
+          <mxGeometry x="3453" y="1084" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GIJ2lPNU1WHu-ZV3Bhrh-2" value="На сервер вся форма целиком, включая тексты для продавца в случае если они были отредактированы." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#4D4D4D;" vertex="1" parent="UQvNzBuxLZfOV9-yqz3b-194">
-          <mxGeometry x="3550" y="1084" width="240" height="60" as="geometry" />
+          <mxGeometry x="3523" y="1084" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NTGKt6x6L6G9EiRkmZ3g-1" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#999999;fontSize=12;fontColor=#999999;strokeWidth=3;" edge="1" parent="UQvNzBuxLZfOV9-yqz3b-194">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3550" y="1078" as="sourcePoint" />
-            <mxPoint x="3797" y="1078" as="targetPoint" />
+            <mxPoint x="3523" y="1078" as="sourcePoint" />
+            <mxPoint x="3770" y="1078" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTGKt6x6L6G9EiRkmZ3g-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;strokeColor=#999999;fontSize=12;fontColor=#999999;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="UQvNzBuxLZfOV9-yqz3b-194" source="_tGrwN7tr9c8t5eob17T-45" target="GIJ2lPNU1WHu-ZV3Bhrh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3675" y="618" as="sourcePoint" />
+            <mxPoint x="3815" y="812" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
