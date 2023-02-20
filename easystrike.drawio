@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T11:07:53.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8aRIAMjf3-Jm-WHDcKog" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-20T11:08:07.137Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5MMNqVqWnvxTaW-zKvaM" version="20.8.20" type="github" pages="3">
   <diagram name="Base" id="qSuZdzZaE5NoMa65ZHbZ">
     <mxGraphModel dx="-628" dy="1804" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2493,7 +2493,7 @@
         <mxCell id="_tGrwN7tr9c8t5eob17T-67" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#FFFFFF;" parent="_tGrwN7tr9c8t5eob17T-66" vertex="1">
           <mxGeometry y="13" width="200" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="_tGrwN7tr9c8t5eob17T-68" value="Note for Panel&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" parent="_tGrwN7tr9c8t5eob17T-66" vertex="1">
+        <mxCell id="_tGrwN7tr9c8t5eob17T-68" value="Note for merchant&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=8;spacing=0;" parent="_tGrwN7tr9c8t5eob17T-66" vertex="1">
           <mxGeometry width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_tGrwN7tr9c8t5eob17T-69" value="" style="group" parent="_tGrwN7tr9c8t5eob17T-1" vertex="1" connectable="0">
