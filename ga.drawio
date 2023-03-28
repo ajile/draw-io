@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T08:00:18.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4a-PeLnSt1DX6xgcYpqg" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T08:00:54.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9kETVGkNwCoyBkwgNzI4" version="20.8.23" type="github">
   <diagram name="Page-1" id="DvnkW0nFzjkquib5UW7O">
     <mxGraphModel dx="892" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,6 +154,15 @@
         </mxCell>
         <mxCell id="uHtPLLoRkdZR7AYn_E8j-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uHtPLLoRkdZR7AYn_E8j-9">
           <mxGeometry x="135" y="400" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uHtPLLoRkdZR7AYn_E8j-41" value="Пакет&amp;nbsp;joom-express-middlewares." style="text;html=1;strokeColor=none;fillColor=#F0EFD8;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=4;" vertex="1" parent="uHtPLLoRkdZR7AYn_E8j-9">
+          <mxGeometry x="480" y="-50" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uHtPLLoRkdZR7AYn_E8j-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=none;endFill=0;strokeColor=#808080;exitX=0.889;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="uHtPLLoRkdZR7AYn_E8j-9" source="uHtPLLoRkdZR7AYn_E8j-40" target="uHtPLLoRkdZR7AYn_E8j-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="390" as="targetPoint" />
+            <mxPoint x="490" y="320" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
