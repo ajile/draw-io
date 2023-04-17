@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T07:58:46.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DMcfdrnF9kh3KXbDd2-U" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T07:59:12.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zD0yDztwNBQwtu1cTtCg" version="21.1.1" type="github">
   <diagram name="Page-1" id="ey7MowC4njxBOhQ8ENM-">
-    <mxGraphModel dx="733" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1368" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="89cDljxex6EhfOc-R6DK-272" value="Platform Planning" style="locked=1;" parent="0" />
@@ -583,7 +583,7 @@
             <mxPoint x="720" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="89cDljxex6EhfOc-R6DK-237" value="Team распределение задач&lt;br&gt;из командного бэклога" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="89cDljxex6EhfOc-R6DK-236">
+        <mxCell id="89cDljxex6EhfOc-R6DK-237" value="Распределение задач&lt;br&gt;из командного бэклога" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="89cDljxex6EhfOc-R6DK-236">
           <mxGeometry x="-0.2409" y="-1" relative="1" as="geometry">
             <mxPoint x="59" y="19" as="offset" />
           </mxGeometry>
