@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T08:13:39.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VXy8jGDQXaqcxD_o54ir" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T10:07:53.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Gy1ecpk_tcLhimp5B9su" version="21.1.1" type="github">
   <diagram name="Page-1" id="ey7MowC4njxBOhQ8ENM-">
-    <mxGraphModel dx="933" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1578" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="89cDljxex6EhfOc-R6DK-272" value="Platform Planning" style="" parent="0" />
@@ -862,7 +862,7 @@
             <mxPoint x="80" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="89cDljxex6EhfOc-R6DK-235" value="V-Team распределение задач&lt;br&gt;из платформенного бэклога" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="89cDljxex6EhfOc-R6DK-234">
+        <mxCell id="89cDljxex6EhfOc-R6DK-235" value="V-Team распределение задач&lt;br&gt;из платформенного бэклога по ответственным из команд" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="89cDljxex6EhfOc-R6DK-234">
           <mxGeometry x="-0.2409" y="-1" relative="1" as="geometry">
             <mxPoint x="-19" y="28" as="offset" />
           </mxGeometry>
@@ -879,7 +879,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="89cDljxex6EhfOc-R6DK-239" value="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF120A;fontStyle=1;fontColor=#F5F5F5;fontSize=19;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="46" y="646" width="28" height="28" as="geometry" />
+          <mxGeometry x="46" y="716" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="89cDljxex6EhfOc-R6DK-240" value="2" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF120A;fontStyle=1;fontColor=#F5F5F5;fontSize=19;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="382" y="846" width="28" height="28" as="geometry" />
