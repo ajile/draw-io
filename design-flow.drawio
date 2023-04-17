@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T08:00:49.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aAuBtsdOqNSWuTpBOaky" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T08:01:09.433Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SjIIu-gZsQnVIRiGYAwT" version="21.1.1" type="github">
   <diagram name="Page-1" id="ey7MowC4njxBOhQ8ENM-">
-    <mxGraphModel dx="1865" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1283" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="89cDljxex6EhfOc-R6DK-272" value="Platform Planning" style="locked=1;" parent="0" />
@@ -727,7 +727,7 @@
           <mxGeometry x="152.07" y="695" width="10.53" height="10" as="geometry" />
         </mxCell>
         <mxCell id="89cDljxex6EhfOc-R6DK-283" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;strokeColor=none;fillColor=#FF120A;" vertex="1" parent="1">
-          <mxGeometry x="152.07" y="775" width="10.53" height="10" as="geometry" />
+          <mxGeometry x="146.8" y="770" width="21.06" height="20" as="geometry" />
         </mxCell>
         <mxCell id="89cDljxex6EhfOc-R6DK-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="89cDljxex6EhfOc-R6DK-284" target="89cDljxex6EhfOc-R6DK-279">
           <mxGeometry relative="1" as="geometry" />
