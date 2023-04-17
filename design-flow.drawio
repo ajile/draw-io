@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T10:07:53.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Gy1ecpk_tcLhimp5B9su" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T10:45:24.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="73cxbUo7sWRwCzbd5GWJ" version="21.1.1" type="github">
   <diagram name="Page-1" id="ey7MowC4njxBOhQ8ENM-">
     <mxGraphModel dx="1578" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,7 +346,7 @@
         <mxCell id="89cDljxex6EhfOc-R6DK-166" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F5F5F5;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="600" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="89cDljxex6EhfOc-R6DK-20" value="&lt;b&gt;Milkov&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="89cDljxex6EhfOc-R6DK-20" value="&lt;span&gt;Milkov&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="170" y="365" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="89cDljxex6EhfOc-R6DK-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -391,7 +391,7 @@
         <mxCell id="89cDljxex6EhfOc-R6DK-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="370" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="89cDljxex6EhfOc-R6DK-34" value="Krygin" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="89cDljxex6EhfOc-R6DK-34" value="Krygin" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="405" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="89cDljxex6EhfOc-R6DK-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -715,8 +715,13 @@
         <mxCell id="89cDljxex6EhfOc-R6DK-193" value="1. Задачи из общего бэклога раскидываются между командами.&lt;br&gt;2. Задачи разбиты на части по 4 часа&lt;br&gt;3. Задачи обсуждены с лидами команд и с исполнителями" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="306" y="1225" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="89cDljxex6EhfOc-R6DK-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="89cDljxex6EhfOc-R6DK-194" target="89cDljxex6EhfOc-R6DK-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="89cDljxex6EhfOc-R6DK-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="89cDljxex6EhfOc-R6DK-194" target="89cDljxex6EhfOc-R6DK-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="390" />
+              <mxPoint x="198" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="89cDljxex6EhfOc-R6DK-194" value="В командах на каждый спринт определяются дежурный для решения платформенных задач" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="170" width="160" height="75" as="geometry" />
