@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="ldurma7DL06uY25wETrp">
-    <mxGraphModel>
+    <mxGraphModel dx="805" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="REy8N1wRO_hQXgHdiolt-2" value="Page" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;fontColor=#808080;strokeColor=#CCCCCC;dashed=1;spacingTop=2;arcSize=6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="640" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="REy8N1wRO_hQXgHdiolt-4" value="Domain" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;fontColor=#808080;strokeColor=#CCCCCC;dashed=1;spacingTop=2;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="640" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="REy8N1wRO_hQXgHdiolt-5" value="API" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;fontColor=#808080;strokeColor=#CCCCCC;dashed=1;spacingTop=2;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-40" width="640" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
