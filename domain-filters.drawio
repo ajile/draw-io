@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="ldurma7DL06uY25wETrp">
-    <mxGraphModel dx="1232" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="997" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,8 +169,8 @@
             <mxPoint x="472.5" y="-310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="REy8N1wRO_hQXgHdiolt-103" value="Преобразовывает фильтры на конкретной странице в параметры запроса." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="482.5" y="-350" width="187.5" height="60" as="geometry" />
+        <mxCell id="REy8N1wRO_hQXgHdiolt-103" value="Преобразовывает фильтры на конкретной странице в параметры запроса.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Page{&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;N&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;}Filters → DomainLoadParams&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="-350" width="217.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
